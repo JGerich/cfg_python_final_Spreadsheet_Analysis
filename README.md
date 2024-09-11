@@ -22,4 +22,5 @@ The csv file for the project is called "sales.csv".
 - Technologies used
 
 Python
+
 Pandas - Python Data Analysis Library
